@@ -11,7 +11,7 @@ dimwishlist:item=1764868900&perks=1300023272,791862061,3978468247,438098033
 // ONSLAUGHT: SALVATION WEAPONS
 // Exuviae -- Rimestealer, Headstone
 dimwishlist:item=2823644677&perks=1955165503,124408337
-// Liturgy -- Disorienting, Slideways, Chill CLip
+// Liturgy -- Disorienting, Slideways, Chill Clip
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
 // Noxious Vetiver -- Attrition Orbs, Jolting Feedback
 dimwishlist:item=825495813&perks=243981275,3966416502
@@ -30,6 +30,13 @@ dimwishlist:item=3818198556&perks=3038247973,1134488199
 dimwishlist:item=3423493037&perks=1955165503,124408337
 // Red Tape -- Rimestealer, Explosive Payload
 dimwishlist:item=3423493037&perks=1955165503,3038247973
+// ONSLAUGHT: SALVATION WEAPONS -- EIDO QUEST REWARDS
+// Liturgy -- Rimestealer, Chill Clip
+dimwishlist:item=2599338624&perks=1844523823,2822142346,1955165503,2978966579
+// Exuviae -- Triple Tap, Precision Instrument
+dimwishlist:item=2823644677&perks=4090651448,3142289711,3400784728,555281244
+// Vantage Point -- Stats For All, Voltshot
+dimwishlist:item=3830941962&perks=4090651448,3177308360,1583705720
 
 // REPRISED WEAPONS
 // Chroma Rush -- Subsistence, Kinetic Tremors
