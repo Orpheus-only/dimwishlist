@@ -1,2 +1,66 @@
-dimwishlist:item=839344841&perks=3768438372,2154191829,3365897133,831391274
+title:Orpheus#4409 S25- wishlist
+description:God Rolls (mainly 3rd and 4th + GL 2nd) for Episode 2
+
+// TEST WEAPONS
+// Vengeful Whisper -- Explosive Head, Hatchling
+dimwishlist:item=839344841&perks=3365897133,831391274
+// Riiswalker -- Discord, Harmony
 dimwishlist:item=1764868900&perks=1300023272,791862061,3978468247,438098033
+
+// Season 25
+// ONSLAUGHT: SALVATION WEAPONS
+// Exuviae -- Rimestealer, Headstone
+dimwishlist:item=2823644677&perks=1955165503,124408337
+// Liturgy -- Disorienting, Slideways, Chill CLip
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+// Noxious Vetiver -- Attrition Orbs, Jolting Feedback
+dimwishlist:item=825495813&perks=243981275,3966416502
+// Bitter/Sweet -- Spike Grenades, Envious Arsenal, Bait and Switch
+dimwishlist:item=2599338625&perks=3301904089,3987942396,3078487919
+// Vantage Point -- Deconstruct, Jolting Feedback
+dimwishlist:item=3830941962&perks=3993379141,3966416502
+dimwishlist:item=3830941962&perks=1164602481,3966416502
+// Vantage Point -- Eddy Current, Jolting Feedback
+dimwishlist:item=3830941962&perks=684456054,3966416502
+// Sovereignty -- Explosive Payload, Firing Line
+dimwishlist:item=3818198556&perks=3038247973,1771339417
+// Sovereignty -- Explosive Payload, Withering Gaze
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+// Red Tape -- Rimestealer, Headstone
+dimwishlist:item=3423493037&perks=1955165503,124408337
+// Red Tape -- Rimestealer, Explosive Payload
+dimwishlist:item=3423493037&perks=1955165503,3038247973
+
+// REPRISED WEAPONS
+// Chroma Rush -- Subsistence, Kinetic Tremors
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+// Ignition Code -- Disorienting, Slideshot, Vorpal
+dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391
+// Anonymous Autumn -- Eddy Current, Voltshot
+dimwishlist:item=1051949956&perks=684456054,2173046394
+// Wicked Sister -- Spike Grenades, Envious Assassin, Bait and Switch
+dimwishlist:item=2039776723&perks=3301904089,968510818,3078487919
+// Bygones -- Shoot to Loot, Kinetic Tremors
+dimwishlist:item=2199554524&perks=3700496672,3891536761
+// Archon's Thunder -- Rimestealer, Headstone
+dimwishlist:item=2896109856&perks=1955165503,124408337
+// Archon's Thunder -- High Impact Reserves, Killing Tally
+dimwishlist:item=2896109856&perks=2213355989,557221067
+// Veleda-F -- Handling MW, Fluted Barrel, Snapshot, Withering Gaze
+dimwishlist:item=4200122994&perks=1840239774,957782887,1134488199
+// Tomorrow's Answer -- Withering Gaze, Bipod
+dimwishlist:item=3009199534&perks=1134488199,1439600632
+
+// NIGHTFALL WEAPONS
+// Rake Angle -- Swap Mag, Overflow, Chill Clip
+dimwishlist:item=2298039571&perks=3721627275,3643424744,2978966579
+dimwishlist:item=3997086838&perks=3721627275,3643424744,2978966579
+// Rake Angle -- Swap Mag, Overflow, Surrounded
+dimwishlist:item=2298039571&perks=3721627275,3643424744,3708227201
+dimwishlist:item=3997086838&perks=3721627275,3643424744,3708227201
+// Rake Angle -- Swap Mag, Overflow, Vorpal
+dimwishlist:item=2298039571&perks=3721627275,3643424744,1546637391
+dimwishlist:item=3997086838&perks=3721627275,3643424744,1546637391
+// Plug One.1 -- Reconstruction, Controlled Burst
+dimwishlist:item=3293524502&perks=1523832109,2594592626
+dimwishlist:item=3106557243&perks=1523832109,2594592626
