@@ -79,3 +79,22 @@ dimwishlist:item=480368036&perks=1119449540,2978966579
 // WORLD DROPS
 // Live Fire -- Rimestealer, Headstone
 dimwishlist:item=3612142623&perks=1955165503,124408337
+
+// VESPER'S HOST WEAPONS
+// VS Pyroelectric Propellant -- Eddy Current, Jolting Feedback
+dimwishlist:item=4232480042&perks=684456054,3966416502
+// VS Pyroelectric Propellant -- Attrition Orbs, Jolting Feedback
+dimwishlist:item=4232480042&perks=243981275,3966416502
+// VS Velocity Baton -- Repulsor, Destabilizing
+dimwishlist:item=1762785663&perks=776531651,2048641572
+// VS Velocity Baton -- Under Over, Attrition Orbs
+dimwishlist:item=1762785663&perks=1870851715,243981275
+// VS Chill Inhibitor -- Demolitionist, Bait and Switch
+dimwishlist:item=1762785662&perks=3523296417,3078487919
+// VS Chill Inhibitor -- Demolitionist, Chill Clip
+dimwishlist:item=1762785662&perks=3523296417,2978966579
+// VS Chill Inhibitor -- Envious Arsenal, Bait and Switch
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+// VS Gravitic Arrest -- Demolitionist, Withering Gaze
+dimwishlist:item=93061497&perks=3523296417,1134488199
+
